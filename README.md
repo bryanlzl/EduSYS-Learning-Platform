@@ -7,7 +7,7 @@
 <div>
   <div align="center">
     <h1 style="font-weight: bold">LifeHack 2021</h1>
-    <a href="https://github.com/helloitsm3/Life-Hack-2021.git">
+    <a href="https://github.com/bryanlzl/Life-Hack-2021.git">
         <img src="./resources/logo.png" alt="Logo">
     </a>
     <p align="center" style="margin-top: 30px">
